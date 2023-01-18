@@ -1,4 +1,4 @@
-# IT-Company-Website
+# ICT-Company-Website
 
 ## Overview
 
