@@ -1,4 +1,4 @@
-# IT-Company-Website
+# ICT-Company-Website
 
 ## Overview
 
@@ -7,7 +7,7 @@ The project “IT Company Website” is a responsive website made using HTML, CS
 ## Website Link
 
 Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
+https://tyoniit.github.io/ontime/
 
 ##
 
