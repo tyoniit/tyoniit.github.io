@@ -1125,7 +1125,8 @@ body{
     }
 
     .header .navbar ul li{
-        margin: 1rem 0;
+       
+		 margin: 0 1.5rem;
 		
     }
 
