@@ -1101,6 +1101,8 @@ body{
         display: block;
         color: 	white;
         margin-right: 1rem;
+		font-size:50px;
+		
     }
 
     .header .fa-bars:hover{
