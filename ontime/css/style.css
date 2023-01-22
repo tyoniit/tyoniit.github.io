@@ -22,7 +22,7 @@ body{
     margin: 2rem;
     padding-top: 6rem;
     display: inline-block;
-    font-size: 3.5rem;
+    font-size: 5.5rem;
     color: #002e5f;
     position: relative;
     letter-spacing: .2rem;
@@ -101,11 +101,13 @@ body{
     justify-content: space-between;
     width: 100%;
     padding: 1rem 2rem;
-    position: fixed;
+   position:FIXED;
     top: 0;
     left: 0;
     z-index: 100;
-    position: fixed;
+    
+	background: #87CEEB;
+	   
 }
 
 .header .logo img{
@@ -128,7 +130,7 @@ body{
 
 .header .navbar ul li a{
     font-size: 2rem;
-    color: #fff;
+    
 }
 
 .header .navbar ul li a:hover{
@@ -143,7 +145,7 @@ body{
 .header .fa-bars{
     color: #fff;
     cursor: pointer;
-    font-size: 3rem;
+    font-size: 13rem;
     display: none;
 }
 
@@ -160,6 +162,7 @@ body{
     padding: 0 1rem;
     position: relative;
     overflow: hidden !important;
+	background: #82CAFF;
 }
 
 .home h1{
@@ -1094,7 +1097,7 @@ body{
     }
 
     .header .fa-bars{
-        display: block;
+        display: black;
         color: 	white;
         margin-right: 1rem;
     }
