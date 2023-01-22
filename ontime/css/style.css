@@ -1090,8 +1090,8 @@ body{
     }
 
     .header .logo img{
-        width: 50%;
-        height: 10rem;
+        width: 1000%;
+        height: 5rem;
         top: 0;
         left: 0;
         background-size: cover;
