@@ -106,7 +106,7 @@ body{
     left: 0;
     z-index: 100;
     
-	background: #87CEEB;
+	background: #48ADB2;
 	   
 }
 
@@ -607,7 +607,7 @@ body{
 }
 
 .team .heading{
-    color: #00bfff;
+    color: #48ADB2;
 }
 
 .team .heading::before, .team .heading::after{
@@ -1090,8 +1090,8 @@ body{
     }
 
     .header .logo img{
-        width: 100%;
-        height: 15rem;
+        width: 80%;
+        height: 10rem;
         top: 0;
         left: 0;
         background-size: cover;
