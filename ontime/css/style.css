@@ -603,15 +603,15 @@ body{
     min-width: 100vw;
     min-height: 95vh;
     text-align: center;
-    background-color: #222;
+    background-color: #48ADB2;
 }
 
 .team .heading{
-    color: #48ADB2;
+    color: #002e5f;
 }
 
 .team .heading::before, .team .heading::after{
-    border-color: #00bfff;
+    border-color: #002e5f;
 }
 
 .team .row{
@@ -853,7 +853,7 @@ body{
         }
         
         .footer .footer-top {
-            background: #002e5f;
+            background: #48ADB2;
             padding: 60px 0 30px 0;
         }
         
@@ -1023,7 +1023,7 @@ body{
         
         .faq .row{
             display: flex;
-            align-items: center;
+            align-items: right;
             justify-content: center;
             padding: 0 2rem;
         }
@@ -1036,6 +1036,7 @@ body{
         .faq .row .accordion{
             margin-left: 1rem;
             margin-right: 2rem;
+			text-align: left;
         }
         
         .faq .row .accordion-container .accordion .accordion-header{
@@ -1090,7 +1091,7 @@ body{
     }
 
     .header .logo img{
-        width: 80%;
+        width: 100%;
         height: 10rem;
         top: 0;
         left: 0;
@@ -1101,7 +1102,7 @@ body{
         display: block;
         color: 	white;
         margin-right: 1rem;
-		font-size:50px;
+		font-size:20px;
 		
     }
 
