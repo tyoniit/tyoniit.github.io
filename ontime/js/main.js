@@ -15,7 +15,7 @@ $(document).ready(function(){
         }
         else
         {
-            $('.header').css({'background':'none','box-shadow':'none'});
+            $('.header').css({'background':'none','box-shadow':'none','transition':'12s'});
         }
     });
 
